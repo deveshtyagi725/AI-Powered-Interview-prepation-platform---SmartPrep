@@ -286,29 +286,6 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 ---
 
-# 📸 Application Preview
-
-## 🏠 Home Page
-
-<img src="assets/home.png" width="100%" />
-
----
-
-## 📊 Dashboard
-
-<img src="assets/dashboard.png" width="100%" />
-
----
-
-## 🤖 AI Interview Report
-
-<img src="assets/report.png" width="100%" />
-
----
-
-## 📄 Resume Generator
-
-<img src="assets/resume.png" width="100%" />
 
 ---
 
